@@ -32,6 +32,7 @@
             delay: $(this).data('counterup-delay') || settings.delay
           };
 
+
       var counterUpper = function () {
         var nums          = [];
         var divisions     = counter.time / counter.delay;
