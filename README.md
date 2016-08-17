@@ -1,7 +1,7 @@
-jquery.counterup
+jquery-counterup
 ==========
 
-jquery.counterup is a jQuery plugin that *animates* a number from zero (counting up towards it). It supports counting up:
+jquery-counterup is a jQuery plugin that *animates* a number from zero (counting up towards it). It supports counting up:
 
 * integers `12345`
 * floats `0.1234`
@@ -22,11 +22,9 @@ Features:
 Demo
 ====
 
-**[DEMO](http://ciromattia.github.io/jquery.counterup/demo/index.html)**
-
 Install with Bower
 ```
-bower install jquery.counterup
+bower install jquery-counterup
 ```
 =====
 
