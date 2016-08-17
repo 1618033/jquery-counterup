@@ -19,7 +19,7 @@ Features:
 
 *Requires [waypoints.js](http://imakewebthings.com/jquery-waypoints/)*
 
-Demo
+Installation
 ====
 
 Install with Bower
@@ -71,3 +71,10 @@ $('.counter').counterUp({
 `time` - The total duration of the count up animation
 
 `formatter` - A callback to format the number with
+
+
+Credits
+====
+Original: https://github.com/bfintal/Counter-Up
+Forked from: https://github.com/ciromattia/jquery.counterup
+Fixes & additions: me
