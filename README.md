@@ -76,5 +76,7 @@ $('.counter').counterUp({
 Credits
 ====
 Original: https://github.com/bfintal/Counter-Up
+
 Forked from: https://github.com/ciromattia/jquery.counterup
+
 Fixes & additions: me
